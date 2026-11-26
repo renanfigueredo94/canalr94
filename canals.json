@@ -4,13 +4,6 @@
     "nome": "A&E",
     "categoria": "",
     "capa": "",
-    "embed": "<iframe src=\https://sinalpublicoetv.vercel.app/?id=ae" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>"
-  },
-  {
-    "id": 2,
-    "nome": "AMC",
-    "categoria": "",
-    "capa": "",
-    "embed": "<iframe src=\https://sinalpublicoetv.vercel.app/?id=amc" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>"
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>"
   }
 ]
