@@ -11,7 +11,7 @@
     "id": 2,
     "nome": "AMC",
     "categoria": "",
-    "capa": "https://2.dpetftvwrc.workers.dev/ae.png",
+    "capa": "https://2.dpetftvwrc.workers.dev/amc.png",
     "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=amc\" allow=\"encrypted-media\" allowfullscreen></iframe>",
     "guia": "https://meuguia.tv/programacao/canal/MGM"
   },
