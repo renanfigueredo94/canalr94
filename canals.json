@@ -4,6 +4,6 @@
     "nome": "A&E",
     "categoria": "",
     "capa": "",
- "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" allowfullscreen></iframe>"
+ "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\"autoplay\" allowfullscreen></iframe>"
   }
 ]
