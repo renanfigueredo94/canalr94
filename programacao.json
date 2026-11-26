@@ -1,23 +1,17 @@
 {
-  "atualizadoEm": "2026-11-26T11:55:28+00:00",
+  "atualizadoEm": "2026-11-26T12:28:26+00:00",
   "programas": [
     {
-      "id": 1,
-      "canal": "A&E",
-      "agora": "As Primeiras 48 Horas",
-      "proximo": "Rashash"
-    },
-    {
-      "id": 2,
+      "id": 7,
       "canal": "AMC",
       "agora": "Planet Action",
       "proximo": "Planet Action"
     },
     {
-      "id": 3,
+      "id": 8,
       "canal": "AXN",
       "agora": "S.W.A.T.",
-      "proximo": "S.W.A.T."
+      "proximo": "NCIS"
     }
   ]
 }
