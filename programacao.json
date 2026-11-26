@@ -1,77 +1,77 @@
 {
-  "atualizadoEm": "2026-11-26T12:40:06+00:00",
+  "atualizadoEm": "2026-11-26T20:14:36+00:00",
   "programas": [
     {
       "id": 6,
       "canal": "AE",
-      "agora": "Rashash",
-      "proximo": "Esquadrão de Homicídios: Nova Orleans"
+      "agora": "As Primeiras 48 Horas: Minutos Críticos",
+      "proximo": "Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades"
     },
     {
       "id": 7,
       "canal": "AMC",
-      "agora": "Planet Action",
-      "proximo": "Planet Action"
+      "agora": "A Saga Crepúsculo: Amanhecer - Parte 1",
+      "proximo": "King Kong"
     },
     {
       "id": 8,
       "canal": "AXN",
-      "agora": "S.W.A.T.",
-      "proximo": "NCIS"
+      "agora": "C.S.I. Miami",
+      "proximo": "Hawaii Five-0"
     },
     {
       "id": 10,
       "canal": "ANIMAL PLANET",
-      "agora": "Caçadores de Pítons",
-      "proximo": "Caçadores de Pítons"
+      "agora": "Pesca ao Extremo",
+      "proximo": "O Retorno do Grande Tubarão-branco"
     },
     {
       "id": 11,
       "canal": "APARECIDA",
-      "agora": "Missa de Aparecida - Santuário Nacional",
-      "proximo": "Família dos Devotos"
+      "agora": "TJ Aparecida",
+      "proximo": "Escola de Maria"
     },
     {
       "id": 12,
       "canal": "BAND NEWS",
-      "agora": "Resumo Bandnews",
-      "proximo": "Manhã Bandnews"
+      "agora": "Expresso Bandnews",
+      "proximo": "O É da Coisa"
     },
     {
       "id": 15,
       "canal": "BAND SPORTS",
-      "agora": "Esporte Total",
-      "proximo": "Fórum Sou do Esporte"
+      "agora": "Resenha Rádio Bandeirantes - Ao Vivo",
+      "proximo": "Bola Rolando - Ao Vivo"
     },
     {
       "id": 18,
       "canal": "CARTOON NETWORK",
-      "agora": "O Mundo Maravilhosamente Estranho de Gumball",
-      "proximo": "O Mundo Maravilhosamente Estranho de Gumball"
+      "agora": "O Mundo (Sem Filtro) de Any Malu",
+      "proximo": "O Mundo (Sem Filtro) de Any Malu"
     },
     {
       "id": 19,
       "canal": "GLOOB",
-      "agora": "Dragões - Pilotos De Berk",
-      "proximo": "A Árvore Familiar Dos Croods"
+      "agora": "A Árvore Familiar Dos Croods",
+      "proximo": "Miraculous - As Aventuras de Ladybug"
     },
     {
       "id": 24,
       "canal": "CINEMAX",
-      "agora": "No Mercy",
-      "proximo": "Fora do Rumo"
+      "agora": "Resident Evil 4: Recomeço",
+      "proximo": "Lobo Guerreiro"
     },
     {
       "id": 25,
       "canal": "COMBATE",
-      "agora": "Boxe: Navarrete x Foster",
-      "proximo": "Acbjj 23"
+      "agora": "Kings Championship",
+      "proximo": "Finais - Zagreb, Croácia"
     },
     {
       "id": 26,
       "canal": "CULTURA",
-      "agora": "Bluey",
-      "proximo": "Ninhos em Movimento"
+      "agora": "A Caverna de Petra",
+      "proximo": "Osmar, a Primeira Fatia do Pão de Forma"
     },
     {
       "id": 27,
@@ -82,242 +82,242 @@
     {
       "id": 28,
       "canal": "DISCOVERY H&H",
-      "agora": "90 Dias Para Casar",
-      "proximo": "90 Dias Para Casar"
+      "agora": "Quilos Mortais: Como Eles Estão Agora?",
+      "proximo": "Nesha e Jaz Contra o Peso"
     },
     {
       "id": 30,
       "canal": "DISCOVERY KIDS",
-      "agora": "Polly Pocket",
-      "proximo": "Turma da Mônica"
+      "agora": "Peppa Pig",
+      "proximo": "Peppa Pig"
     },
     {
       "id": 31,
       "canal": "DISCOVERY SCIENCE",
-      "agora": "Megaconstruções",
-      "proximo": "Mistérios No Museu"
+      "agora": "Rumo ao Desconhecido: Mistérios Paranormais",
+      "proximo": "Megaconstruções"
     },
     {
       "id": 32,
       "canal": "DISCOVERY THEATER",
-      "agora": "Ouro Selvagem",
-      "proximo": "Monstros da Montanha"
+      "agora": "Rumo ao Desconhecido",
+      "proximo": "Mistérios no Museu"
     },
     {
       "id": 33,
       "canal": "DISCOVERY TURBO",
-      "agora": "Overhaulin': Os Supercarros",
-      "proximo": "Carros Irados - A Disputa"
+      "agora": "Texas Metal",
+      "proximo": "Dupla do Barulho"
     },
     {
       "id": 34,
       "canal": "DISCOVERY WORLD",
-      "agora": "Sabores da América: Bacon",
-      "proximo": "Fast Food Mania"
+      "agora": "O Poder dos Alimentos",
+      "proximo": "Minha Casa nas Montanhas"
     },
     {
       "id": 38,
       "canal": "ESPN",
-      "agora": "VT - Chelsea x Leeds",
-      "proximo": "Sportscenter - Ao Vivo"
+      "agora": "Sportscenter - Ao Vivo",
+      "proximo": "Equipe F - Ao Vivo"
     },
     {
       "id": 39,
       "canal": "ESPN 2",
-      "agora": "VT - NBA: San Antonio Spurs x Portland Trail Blazers",
-      "proximo": "VT - Atlético-GO x Vila Nova"
+      "agora": "VT - NBA: Minnesota Timberwolves x Oklahoma City Thunder",
+      "proximo": "VT - Manchester City x Fulham"
     },
     {
       "id": 40,
       "canal": "ESPN 3",
-      "agora": "Sportscenter Americano - Ao Vivo",
-      "proximo": "Linha de Passe: Mesa-Redonda"
+      "agora": "VT - NHL: Vegas Golden Knights x Edmonton Oilers",
+      "proximo": "VT - Atlético-MG x Boca Juniors"
     },
     {
       "id": 41,
       "canal": "ESPN 4",
-      "agora": "VT - NBA: Miami Heat x Philadelphia 76ers",
-      "proximo": "VT - Stoke City x Millwall"
+      "agora": "VT - Criciúma x Fortaleza",
+      "proximo": "VT - Ajax x ADO Den Haag"
     },
     {
       "id": 42,
       "canal": "ESPN 5",
-      "agora": "VT - NFL: Las Vegas Raiders x Denver Broncos",
-      "proximo": "VT - Rugby Nations Championship: França x Argentina"
+      "agora": "VT - Wolverhampton x Derby County",
+      "proximo": "Bola da Vez: Arthur, Meio Campo do Santos"
     },
     {
       "id": 45,
       "canal": "GNT",
-      "agora": "Decora",
-      "proximo": "Mais Cor, Por Favor!"
+      "agora": "Tempero De Família",
+      "proximo": "Que Marravilha!"
     },
     {
       "id": 57,
       "canal": "GLOBO NEWS",
-      "agora": "GloboNews Radar - Ao Vivo",
-      "proximo": "Conexão GloboNews - Ao Vivo"
+      "agora": "GloboNews Mais - Ao Vivo",
+      "proximo": "Jornal GloboNews - Edição Das 18h - Ao Vivo"
     },
     {
       "id": 59,
       "canal": "HBO",
-      "agora": "Amor a Toda Prova",
-      "proximo": "Adão Negro"
+      "agora": "Extermínio: O Templo dos Ossos",
+      "proximo": "O Assobiador"
     },
     {
       "id": 60,
       "canal": "HBO 2",
       "agora": "O Fim da Rua",
-      "proximo": "A Idade Dourada"
+      "proximo": "Os Afro-sambas: O Brasil de Baden e Vinícius"
     },
     {
       "id": 61,
       "canal": "HBO FAMILY",
-      "agora": "Harry Potter e as Relíquias da Morte: Parte 2",
-      "proximo": "Aquaman 2: O Reino Perdido"
+      "agora": "Os Smurfs 2",
+      "proximo": "Pedro Coelho"
     },
     {
       "id": 64,
       "canal": "HBO PLUS",
-      "agora": "Supergirl",
-      "proximo": "A Freira 2"
+      "agora": "Blade Runner 2049",
+      "proximo": "Annabelle"
     },
     {
       "id": 67,
       "canal": "HISTORY",
-      "agora": "O Segredo do Rancho Skinwalker",
-      "proximo": "Mistérios Revelados"
+      "agora": "Inacreditável Com Dan Aykroyd",
+      "proximo": "Inacreditável Com Dan Aykroyd"
     },
     {
       "id": 74,
       "canal": "MEGAPIX",
-      "agora": "Viradão Velozes E Furiosos: Velozes E Furiosos (2001)",
-      "proximo": "Viradão Velozes E Furiosos: + Velozes + Furiosos"
+      "agora": "Viradão Velozes E Furiosos: Velozes & Furiosos 5 - Operação Rio",
+      "proximo": "Viradão Velozes E Furiosos: Velozes E Furiosos 6"
     },
     {
       "id": 75,
       "canal": "MULTISHOW",
-      "agora": "Volte Sempre",
-      "proximo": "Tô De Graça"
+      "agora": "Sessão Nostalgia - Tapas E Beijos",
+      "proximo": "Sessão Nostalgia - Tapas E Beijos"
     },
     {
       "id": 76,
       "canal": "OFF",
-      "agora": "Ninguém Me Domina",
-      "proximo": "Ninguém Me Domina"
+      "agora": "Morando Na Estrada",
+      "proximo": "Skate Em Partes"
     },
     {
       "id": 95,
       "canal": "REDE VIDA",
-      "agora": "Santa Missa Capela Nossa Senhora de Fátima",
-      "proximo": "Terço de Nossa Senhora"
+      "agora": "Novena dos Filhos e Filhas de São José",
+      "proximo": "Encontro Com Cristo"
     },
     {
       "id": 98,
       "canal": "SONY CHANNEL",
-      "agora": "The Nanny",
-      "proximo": "Eu, A Patroa e as Crianças"
+      "agora": "Constantine",
+      "proximo": "O Dia Depois de Amanhã"
     },
     {
       "id": 99,
       "canal": "SPACE",
-      "agora": "C.S.I",
-      "proximo": "C.S.I. Miami"
+      "agora": "Primeiro Impacto",
+      "proximo": "Mortal Kombat - O Filme"
     },
     {
       "id": 104,
       "canal": "SPORTV",
-      "agora": "sportv News - Ao Vivo",
-      "proximo": "Redação sportv - Ao Vivo"
+      "agora": "Globo Esporte",
+      "proximo": "Pílula Futebol Feminino: Olho Nelas"
     },
     {
       "id": 105,
       "canal": "SPORTV 2",
-      "agora": "VT - Paulistano Barueri x Mackenzie",
-      "proximo": "As Bicampeãs"
+      "agora": "NFL: Chicago Bears x Detroit Lions - Ao Vivo",
+      "proximo": "NFL: Philadelphia Eagles x Dallas Cowboys - Ao Vivo"
     },
     {
       "id": 106,
       "canal": "SPORTV 3",
-      "agora": "Circuito Mundial De Surfe - Melhores Momentos - Especial Brasileiros",
-      "proximo": "Sessão Sportv: Meu Nome É João Chianca"
+      "agora": "Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica",
+      "proximo": "Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica"
     },
     {
       "id": 109,
       "canal": "STUDIO UNIVERSAL",
-      "agora": "Um Natal para a Família",
-      "proximo": "Natal em Coyote Creek"
+      "agora": "O Dueto de Natal",
+      "proximo": "Uma Jogada de Natal"
     },
     {
       "id": 110,
       "canal": "TCM",
-      "agora": "Limite da Honra",
-      "proximo": "O Dragão Invencível"
+      "agora": "As Aventuras de Huckleberry Finn",
+      "proximo": "O Valente"
     },
     {
       "id": 111,
       "canal": "TLC",
-      "agora": "Irmãs Ciganas",
-      "proximo": "Amor Fora Das Grades: Como Eles Estão Agora?"
+      "agora": "Os Pequenos Johnstons",
+      "proximo": "Os Pequenos Johnstons"
     },
     {
       "id": 112,
       "canal": "TNT",
-      "agora": "VT - Paris Saint-Germain x Roma",
-      "proximo": "Um Maluco no Pedaço"
+      "agora": "Venom: Tempo de Carnificina",
+      "proximo": "Galera FC"
     },
     {
       "id": 114,
       "canal": "TNT SERIES",
-      "agora": "Person of Interest",
-      "proximo": "Person of Interest"
+      "agora": "Cold Case",
+      "proximo": "Cold Case"
     },
     {
       "id": 116,
       "canal": "TELECINE ACTION",
-      "agora": "Tempo",
-      "proximo": "Invasão Zumbi"
+      "agora": "O Telefone Preto",
+      "proximo": "O Escorpião Rei"
     },
     {
       "id": 117,
       "canal": "TELECINE CULT",
-      "agora": "O Estranho Sem Nome",
-      "proximo": "Os Guarda-Chuvas Do Amor"
+      "agora": "A Última Noite",
+      "proximo": "Clube Dos Cinco"
     },
     {
       "id": 118,
       "canal": "TELECINE FUN",
-      "agora": "Hermanoteu na Terra de Godah",
-      "proximo": "Sonhos S.A."
+      "agora": "De Repente, Miss!",
+      "proximo": "Minha Irmã E Eu"
     },
     {
       "id": 119,
       "canal": "TELECINE PIPOCA",
-      "agora": "Brilho Eterno De Uma Mente Sem Lembranças",
-      "proximo": "John Wick 4: Baba Yaga"
+      "agora": "A Batalha De Riddick",
+      "proximo": "Bom Menino"
     },
     {
       "id": 120,
       "canal": "TELECINE PREMIUM",
-      "agora": "Armadilhas do Passado",
-      "proximo": "Nouvelle Vague"
+      "agora": "Drag Queens Contra Zumbis",
+      "proximo": "Sob Fogo"
     },
     {
       "id": 121,
       "canal": "TELECINE TOUCH",
-      "agora": "Entrevista Com Deus",
-      "proximo": "De Volta à Itália"
+      "agora": "P.S. Eu Te Amo",
+      "proximo": "Papillon"
     },
     {
       "id": 123,
       "canal": "UNIVERSAL",
       "agora": "Chicago Fire",
-      "proximo": "Chicago Fire"
+      "proximo": "Law & Order: Svu"
     },
     {
       "id": 124,
       "canal": "WARNERCHANNEL",
-      "agora": "2 Broke Girls",
-      "proximo": "2 Broke Girls"
+      "agora": "Karate Kid",
+      "proximo": "The Flash"
     }
   ]
 }
