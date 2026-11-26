@@ -1,34 +1,1139 @@
 [
-  {
-    "id": 1,
-    "nome": "A&E",
+ {
+    "id": 6,
+    "nome": "AE",
     "categoria": "",
     "capa": "https://2.dpetftvwrc.workers.dev/ae.png",
-    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" allowfullscreen></iframe>",
-    "guia": "https://meuguia.tv/programacao/canal/MDO"
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
   },
   {
-    "id": 2,
+    "id": 7,
     "nome": "AMC",
     "categoria": "",
     "capa": "https://2.dpetftvwrc.workers.dev/amc.png",
-    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=amc\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=amc\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
     "guia": "https://meuguia.tv/programacao/canal/MGM"
   },
   {
-    "id": 3,
+    "id": 8,
     "nome": "AXN",
     "categoria": "",
     "capa": "https://2.dpetftvwrc.workers.dev/axn.png",
-    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=axn\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=axn\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
     "guia": "https://meuguia.tv/programacao/canal/AXN"
   },
   {
-    "id": 4,
+    "id": 9,
     "nome": "ADULT SWIM",
     "categoria": "",
     "capa": "https://2.dpetftvwrc.workers.dev/adultswim.png",
-    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=adultswim\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=adultswim\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 10,
+    "nome": "ANIMAL PLANET",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/animalplanet.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=animalplanet\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 11,
+    "nome": "APARECIDA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/aparecida.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=aparecida\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 12,
+    "nome": "BAND NEWS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/bandnews.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=bandnews\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 13,
+    "nome": "BAND RJ",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/band.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=bandrj\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 14,
+    "nome": "BAND SP",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/band.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=bandsp\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 15,
+    "nome": "BAND SPORTS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/bandsports.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=bandsports\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 16,
+    "nome": "CNN BRASIL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cnnbrasil.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cnnbrasil\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 17,
+    "nome": "CANÇÃO NOVA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cancaonova.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cancaonova\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 18,
+    "nome": "CARTOON NETWORK",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cartoonnetwork.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cartoonnetwork\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 19,
+    "nome": "GLOOB",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/gloob.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=gloob\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 20,
+    "nome": "CARTOONITO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cartoonito.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cartoonito\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 21,
+    "nome": "CAZETV 1",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cazetv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=caze1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 22,
+    "nome": "CAZETV 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cazetv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=caze2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 23,
+    "nome": "CAZETV 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cazetv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=caze3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 24,
+    "nome": "CINEMAX",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cinemax.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cinemax\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 25,
+    "nome": "COMBATE",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/combate.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=combate\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 26,
+    "nome": "CULTURA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/cultura.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=cultura\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 27,
+    "nome": "DISCOVERY CHANNEL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoverychannel.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoverychannel\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 28,
+    "nome": "DISCOVERY H&H",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoveryhh.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoveryhh\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 29,
+    "nome": "DISCOVERY ID",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/investigacao-discovery.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoveryid\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 30,
+    "nome": "DISCOVERY KIDS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoverykids.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoverykids\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 31,
+    "nome": "DISCOVERY SCIENCE",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoveryscience.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoveryscience\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 32,
+    "nome": "DISCOVERY THEATER",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/discovery-theater.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoverytheather\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 33,
+    "nome": "DISCOVERY TURBO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoveryturbo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoveryturbo\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 34,
+    "nome": "DISCOVERY WORLD",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/discoveryworld.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=discoveryworld\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 35,
+    "nome": "DISNEY PLUS 1",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/disneyplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=disneyplus1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 36,
+    "nome": "DISNEY PLUS 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/disneyplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=disneyplus2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 37,
+    "nome": "DISNEY PLUS 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/disneyplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=disneyplus3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 38,
+    "nome": "ESPN",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 39,
+    "nome": "ESPN 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn2.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 40,
+    "nome": "ESPN 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn3.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 41,
+    "nome": "ESPN 4",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn4.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn4\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 42,
+    "nome": "ESPN 5",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn5.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn5\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 43,
+    "nome": "ESPN 6",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/espn6.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=espn6\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 44,
+    "nome": "FOOD NETWORK",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/foodnetwork.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=foodnetwork\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 45,
+    "nome": "GNT",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/gnt.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=gnt\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 46,
+    "nome": "GLOBO AM",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globoam\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 47,
+    "nome": "GLOBO DF",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globodf\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 48,
+    "nome": "GLOBO CE",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globoce\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 49,
+    "nome": "GLOBO ES",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globoes\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 50,
+    "nome": "GLOBO MG",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globomg\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 51,
+    "nome": "GLOBO GO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globogo\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 52,
+    "nome": "GLOBO PB",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globopb\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 53,
+    "nome": "GLOBO PE",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globope\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 54,
+    "nome": "GLOBO RJ",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globorj\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 55,
+    "nome": "GLOBO RS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globors\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 56,
+    "nome": "GLOBO SP",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globosp\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 57,
+    "nome": "GLOBO NEWS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/globonews.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globonews\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 58,
+    "nome": "GLOBO NOVELAS",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/globoplay-novelas.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=globonovelas\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 59,
+    "nome": "HBO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hbo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hbo\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 60,
+    "nome": "HBO 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hbo2.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hbo2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 61,
+    "nome": "HBO FAMILY",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hbofamily.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hbofamily\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 62,
+    "nome": "HBO MUNDI",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hbomundi.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hbomundi\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 63,
+    "nome": "HBO POP",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hbopop.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hbopop\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 64,
+    "nome": "HBO PLUS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hboplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hboplus\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 65,
+    "nome": "HBO XTREME",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hboxtreme.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hboxtreme\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 66,
+    "nome": "HGTV",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/hgtv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=hgtv\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 67,
+    "nome": "HISTORY",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/history.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=history\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 68,
+    "nome": "HISTORY 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/history2.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=history2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 69,
+    "nome": "MTV",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/mtv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=mtv\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 70,
+    "nome": "MASTER CHEF",
+    "categoria": "",
+    "capa": "https://iconape.com/wp-content/files/mt/155285/png/masterchef-logo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=masterchef\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 71,
+    "nome": "MAX - 1",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/max.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=max1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 72,
+    "nome": "MAX - 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/max.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=max2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 73,
+    "nome": "MAX - 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/max.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=max3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 74,
+    "nome": "MEGAPIX",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/megapix.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=megapix\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 75,
+    "nome": "MULTISHOW",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/multishow.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=multishow\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 76,
+    "nome": "OFF",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/off.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=off\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 77,
+    "nome": "PARAMOUNT PLUS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/paramountplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=paramountplus\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 78,
+    "nome": "PARAMOUNT PLUS 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/paramountplus.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=paramountplus2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 79,
+    "nome": "PREMIERE 1",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 80,
+    "nome": "PREMIERE 2",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 81,
+    "nome": "PREMIERE 3",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 82,
+    "nome": "PREMIERE 4",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere4\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 83,
+    "nome": "PREMIERE 5",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere5\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 84,
+    "nome": "PREMIERE 6",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere6\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 85,
+    "nome": "PREMIERE 7",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere7\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 86,
+    "nome": "PREMIERE 8",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/premiere.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=premiere8\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 87,
+    "nome": "PRIME VIDEO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/primevideo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=primevideo\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 88,
+    "nome": "PRIME VIDEO 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/primevideo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=primevideo2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 89,
+    "nome": "PRIME VIDEO 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/primevideo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=primevideo3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 90,
+    "nome": "PRIME VIDEO 4",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/primevideo.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=primevideo4\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 91,
+    "nome": "RECORD MG",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/record-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=recordmg\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 92,
+    "nome": "RECORD RJ",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/record-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=recordrj\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 93,
+    "nome": "RECORD SP",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/record-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=recordsp\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 94,
+    "nome": "RECORD GO",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/record-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=recordgo\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 95,
+    "nome": "REDE VIDA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/redevida.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=redevida\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 96,
+    "nome": "SBT RJ",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sbt.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sbtrj\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 97,
+    "nome": "SBT SP",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sbt.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sbtsp\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 98,
+    "nome": "SONY CHANNEL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sonychannel.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sonychannel\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 99,
+    "nome": "SPACE",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/space.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=space\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 100,
+    "nome": "SPORTYNET",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sportynet.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportynet\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 101,
+    "nome": "SPORTYNET+ 1",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sportynet.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportynetplus1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 102,
+    "nome": "SPORTYNET+ 2",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sportynet.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportynetplus2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 103,
+    "nome": "SPORTYNET+ 3",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/sportynet.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportynetplus3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 104,
+    "nome": "SPORTV",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/sportv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportv\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 105,
+    "nome": "SPORTV 2",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/sportv-2.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportv2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 106,
+    "nome": "SPORTV 3",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/sportv-3.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportv3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 107,
+    "nome": "SPORTV 4",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/sportv-4.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sportv4\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 108,
+    "nome": "STAR CHANNEL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/starchannel.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=starchannel\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 109,
+    "nome": "STUDIO UNIVERSAL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/studiouniversal.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=studiouniversal\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 110,
+    "nome": "TCM",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tcm.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tcm\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 111,
+    "nome": "TLC",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tlc.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tlc\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 112,
+    "nome": "TNT",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tnt.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tnt\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 113,
+    "nome": "TNT NOVELAS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tntnovelas.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tntnovelas\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 114,
+    "nome": "TNT SERIES",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tntseries.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tntseries\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 115,
+    "nome": "TV PAI ETERNO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/tvpaieterno.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=tvpaieterno\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 116,
+    "nome": "TELECINE ACTION",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecineaction.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecineaction\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 117,
+    "nome": "TELECINE CULT",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecinecult.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecinecult\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 118,
+    "nome": "TELECINE FUN",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecinefun.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecinefun\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 119,
+    "nome": "TELECINE PIPOCA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecinepipoca.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecinepipoca\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 120,
+    "nome": "TELECINE PREMIUM",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecinepremium.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecinepremium\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 121,
+    "nome": "TELECINE TOUCH",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/telecinetouch.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=telecinetouch\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 122,
+    "nome": "UFC FIGHT PASS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/ufcfightpass.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ufcfightpass\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 123,
+    "nome": "UNIVERSAL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/universaltv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=universaltv\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 124,
+    "nome": "WARNERCHANNEL",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/warnerchannel.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=warnerchannel\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 125,
+    "nome": "XSPORTS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/xsports.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=xsports\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 126,
+    "nome": "PT - A BOLA",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/pt_abola.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_abola\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 127,
+    "nome": "PT - BENFICA TV",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/play-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_benficatv\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 128,
+    "nome": "PT - CANAL 11",
+    "categoria": "",
+    "capa": "https://1.dpetftvwrc.workers.dev/play-tv.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_canal11\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 129,
+    "nome": "PT - ELEVEN 1",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_eleven1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 130,
+    "nome": "PT - ELEVEN 2",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_eleven2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 131,
+    "nome": "PT - ELEVEN 3",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_eleven3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 132,
+    "nome": "PT - SPORTTV 1",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv1\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 133,
+    "nome": "PT - SPORTTV 2",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv2\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 134,
+    "nome": "PT - SPORTTV 3",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv3\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 135,
+    "nome": "PT - SPORTTV 4",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv4\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 136,
+    "nome": "PT - SPORTTV 5",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv5\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 137,
+    "nome": "PT - SPORTTV 6",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv6\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 138,
+    "nome": "PT - SPORTTV 7",
+    "categoria": "",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/960px-Logo_SportTV.svg.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=pt_sportv7\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 139,
+    "nome": "24H PLAY BOY",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=playboy\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 140,
+    "nome": "24H SEXY HOT",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=sexyhot\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 141,
+    "nome": "24H CHAVES",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_chaves\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 142,
+    "nome": "24H DRAGON BALL Z",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_dragonball\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 143,
+    "nome": "24H FRIENDS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_friends\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 144,
+    "nome": "24H NARUTO CLÁSSICO",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_naruto\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 145,
+    "nome": "24H OS SIMPSONS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_simpsons\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 146,
+    "nome": "24H TODO MUNDO ODEIA O CRIS",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_odeiachris\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
+    "guia": ""
+  },
+  {
+    "id": 147,
+    "nome": "24H PICA PAU",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/24h.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=24h_picapau\" allow=\"encrypted-media\" width=\"100%\" height=\"100%\" frameborder=\"0\" allowfullscreen></iframe>",
     "guia": ""
   }
+
 ]
