@@ -6,5 +6,21 @@
     "capa": "https://2.dpetftvwrc.workers.dev/ae.png",
     "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" allowfullscreen></iframe>",
     "guia": "https://meuguia.tv/programacao/canal/MDO"
-  }
+  },
+  {
+    "id": 2,
+    "nome": "AMC",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/ae.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=amc\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+    "guia": "https://meuguia.tv/programacao/canal/MGM"
+  },
+  {
+    "id": 3,
+    "nome": "AXN",
+    "categoria": "",
+    "capa": "https://2.dpetftvwrc.workers.dev/axn.png",
+    "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=axn\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+    "guia": "https://meuguia.tv/programacao/canal/AXN"
+  },
 ]
