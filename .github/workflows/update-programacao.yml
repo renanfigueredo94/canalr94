@@ -1,0 +1,40 @@
+name: Atualizar programação dos canais
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - canals.json
+      - scripts/update_programacao.py
+      - .github/workflows/update-programacao.yml
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-programacao
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+      - name: Gerar programação
+        run: python3 scripts/update_programacao.py
+      - name: Publicar arquivo atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add programacao.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza programação dos canais"
+            git push
+          else
+            echo "A programação não mudou."
+          fi
