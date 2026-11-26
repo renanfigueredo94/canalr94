@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nome": "A&E",
+    "nome": "xxx",
     "categoria": "",
     "capa": "",
- "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=ae\" allow=\"encrypted-media\" allowfullscreen></iframe>"
+ "embed": "<iframe src=\"https://sinalpublicoetv.vercel.app/?id=xxx\" allow=\"encrypted-media\" allowfullscreen></iframe>"
   }
 ]
