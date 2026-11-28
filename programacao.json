@@ -1,322 +1,322 @@
 {
-  "atualizadoEm": "2026-11-28T02:39:10+00:00",
+  "atualizadoEm": "2026-11-28T10:51:09+00:00",
   "programas": [
     {
       "id": 6,
       "canal": "AE",
-      "agora": "Atração Fatal: A Vida Imita a Arte",
-      "proximo": "Arquivo Morto: O Dna Não Falha"
+      "agora": "Acusado: Culpado Ou Inocente?",
+      "proximo": "As Primeiras 48 Horas: Minutos Críticos"
     },
     {
       "id": 7,
       "canal": "AMC",
-      "agora": "Belas E Perseguidas",
-      "proximo": "Saltburn"
+      "agora": "Making The Movies",
+      "proximo": "Making The Movies"
     },
     {
       "id": 8,
       "canal": "AXN",
-      "agora": "Criminal Minds",
-      "proximo": "Criminal Minds"
+      "agora": "C.S.I. NY",
+      "proximo": "C.S.I. NY"
     },
     {
       "id": 10,
       "canal": "ANIMAL PLANET",
-      "agora": "Bichos Malcriados",
-      "proximo": "Resgate no Everest"
+      "agora": "Veterinário das Montanhas",
+      "proximo": "Veterinário das Montanhas"
     },
     {
       "id": 11,
       "canal": "APARECIDA",
-      "agora": "Medalhão.com",
-      "proximo": "Terço de Aparecida"
+      "agora": "Celebrar Bem",
+      "proximo": "Terço da Esperança"
     },
     {
       "id": 12,
       "canal": "BAND NEWS",
-      "agora": "Questão De Regra",
-      "proximo": "Jornal da Noite"
+      "agora": "O Que É Ser Brasileiro?",
+      "proximo": "Manhã Bandnews"
     },
     {
       "id": 15,
       "canal": "BAND SPORTS",
-      "agora": "The Golf Brasil",
+      "agora": "Sail GP: Etapa Abu Dhabi: Dia 1 - Ao Vivo",
       "proximo": "Rote Sail GP"
     },
     {
       "id": 18,
       "canal": "CARTOON NETWORK",
-      "agora": "Clarêncio, o Otimista",
-      "proximo": "Clarêncio, o Otimista"
+      "agora": "Irmão do Jorel",
+      "proximo": "A Jornada Heróica do Valente Príncipe Ivandoé"
     },
     {
       "id": 19,
       "canal": "GLOOB",
-      "agora": "Miraculous - As Aventuras de Ladybug",
-      "proximo": "Miraculous - As Aventuras de Ladybug"
+      "agora": "A Árvore Familiar Dos Croods",
+      "proximo": "A Árvore Familiar Dos Croods"
     },
     {
       "id": 24,
       "canal": "CINEMAX",
-      "agora": "Rede de Mentiras",
-      "proximo": "Na Mira do Perigo"
+      "agora": "A Hora Do Vampiro",
+      "proximo": "Pu-239"
     },
     {
       "id": 25,
       "canal": "COMBATE",
-      "agora": "Bkfc Fight Night: Richardson x Oxendine",
-      "proximo": "Glory 110"
+      "agora": "Mundo Da Luta - Ep.16",
+      "proximo": "Finais - Astana, Cazaquistão - Ao Vivo"
     },
     {
       "id": 26,
       "canal": "CULTURA",
-      "agora": "Cultura Memória",
-      "proximo": "Metrópolis"
+      "agora": "Turbossauros",
+      "proximo": "Parquinho Jurássico"
     },
     {
       "id": 27,
       "canal": "DISCOVERY CHANNEL",
-      "agora": "Vida Remota: Missão Resgate",
-      "proximo": "A Grande Família do Alasca"
+      "agora": "Planeta Terra",
+      "proximo": "Blue Planet II"
     },
     {
       "id": 28,
       "canal": "DISCOVERY H&H",
-      "agora": "Bake Off Brasil: Mão na Massa",
-      "proximo": "Pesadelo na Cozinha com Gordon Ramsay"
+      "agora": "A Batalha dos 100 Cozinheiros",
+      "proximo": "MasterChef Brasil"
     },
     {
       "id": 30,
       "canal": "DISCOVERY KIDS",
-      "agora": "44 Gatos",
-      "proximo": "44 Gatos"
+      "agora": "Peppa Pig",
+      "proximo": "S.M.A.S.H.: Acampamento de Super-heróis"
     },
     {
       "id": 31,
       "canal": "DISCOVERY SCIENCE",
-      "agora": "Desvendando o Passado",
-      "proximo": "O Caçador de Múmias"
+      "agora": "O Caçador de Múmias",
+      "proximo": "Rumo ao Desconhecido: Mistérios Paranormais"
     },
     {
       "id": 32,
       "canal": "DISCOVERY THEATER",
-      "agora": "Mistérios no Museu",
-      "proximo": "Mistérios da História"
+      "agora": "Alasca - Perigo no Ar",
+      "proximo": "Destiladores: Mestre Destilador"
     },
     {
       "id": 33,
       "canal": "DISCOVERY TURBO",
-      "agora": "Texas Metal",
-      "proximo": "Texas Metal"
+      "agora": "Oficinaço",
+      "proximo": "Joias Sobre Rodas"
     },
     {
       "id": 34,
       "canal": "DISCOVERY WORLD",
-      "agora": "Buying Hawaii",
-      "proximo": "Casas de Férias Incríveis"
+      "agora": "1000 Lugares para Conhecer Antes de Morrer",
+      "proximo": "Polônia: A Última Fronteira"
     },
     {
       "id": 38,
       "canal": "ESPN",
-      "agora": "Linha de Passe: Mesa-Redonda - Ao Vivo",
-      "proximo": "Sportscenter - Ao Vivo"
+      "agora": "Linha de Passe: Mesa-Redonda",
+      "proximo": "Sportscenter"
     },
     {
       "id": 39,
       "canal": "ESPN 2",
-      "agora": "Futebol Americano Universitário: Texas x Texas A&M - Ao Vivo",
-      "proximo": "ATP Tour: This Week"
+      "agora": "Sportscenter",
+      "proximo": "ESPN League"
     },
     {
       "id": 40,
       "canal": "ESPN 3",
-      "agora": "ESPN Knockout: Joel Mafauad x Cristian Ayala - Ao Vivo",
-      "proximo": "VT - Nottingham Forest x Chelsea"
+      "agora": "In the Arena: Serena Williams",
+      "proximo": "Show da Rodada da Premier League"
     },
     {
       "id": 41,
       "canal": "ESPN 4",
-      "agora": "Estados Unidos x El Salvador - Ao Vivo",
+      "agora": "Premier League Stories",
       "proximo": "F1: The Inside Line"
     },
     {
       "id": 42,
       "canal": "ESPN 5",
-      "agora": "VT - NHL: Toronto Maple Leafs x Boston Bruins",
-      "proximo": "Especial Libertadores: Campanha do Palmeiras"
+      "agora": "VT - Vila Nova x Atlético-GO",
+      "proximo": "VT - Futebol Americano Universitário: Texas x Texas A&M"
     },
     {
       "id": 45,
       "canal": "GNT",
-      "agora": "Que História É Essa, Porchat?",
+      "agora": "Dani-Se",
       "proximo": "Avisa Lá Que Eu Vou"
     },
     {
       "id": 57,
       "canal": "GLOBO NEWS",
-      "agora": "Diálogos Com Mario Sergio Conti - Ao Vivo",
-      "proximo": "Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo"
+      "agora": "GloboNews Especial",
+      "proximo": "Jornal GloboNews - Edição Das 08h - Ao Vivo"
     },
     {
       "id": 59,
       "canal": "HBO",
-      "agora": "HBO Movies",
-      "proximo": "Eu Sei o que Vocês Fizeram no Verão Passado"
+      "agora": "O Livro de Eli",
+      "proximo": "Superman"
     },
     {
       "id": 60,
       "canal": "HBO 2",
-      "agora": "O Peixe Pout-pout",
-      "proximo": "Cidade De Deus: A Luta Não Para"
+      "agora": "Amor a Toda Prova",
+      "proximo": "Juntos e Misturados"
     },
     {
       "id": 61,
       "canal": "HBO FAMILY",
-      "agora": "Harry Potter e a Câmara Secreta",
-      "proximo": "Titio Noel"
+      "agora": "Um Filme Minecraft",
+      "proximo": "Shazam!"
     },
     {
       "id": 64,
       "canal": "HBO PLUS",
-      "agora": "Megatubarão",
-      "proximo": "Jurassic World: O Mundo dos Dinossauros"
+      "agora": "Mulher-Maravilha",
+      "proximo": "Devorador"
     },
     {
       "id": 67,
       "canal": "HISTORY",
-      "agora": "Grandes Mistérios da História Com Laurence Fishburne",
-      "proximo": "Maldições Da História"
+      "agora": "Mistérios Revelados",
+      "proximo": "Mistérios Revelados"
     },
     {
       "id": 74,
       "canal": "MEGAPIX",
-      "agora": "Viradão Velozes E Furiosos: Velozes & Furiosos 9",
-      "proximo": "Viradão Velozes E Furiosos: Velozes & Furiosos: Hobbs & Shaw"
+      "agora": "Viradão Velozes E Furiosos: Velozes E Furiosos: Desafio Em Tóquio",
+      "proximo": "Viradão Velozes E Furiosos: Velozes E Furiosos 4"
     },
     {
       "id": 75,
       "canal": "MULTISHOW",
-      "agora": "A Vila",
-      "proximo": "Sessão Nostalgia - A Grande Família"
+      "agora": "Tô De Graça",
+      "proximo": "Tô De Graça"
     },
     {
       "id": 76,
       "canal": "OFF",
-      "agora": "Euceano",
-      "proximo": "Califorfun"
+      "agora": "Ninguém Me Domina",
+      "proximo": "Curtas Do Off: Bike Under The Lights"
     },
     {
       "id": 95,
       "canal": "REDE VIDA",
-      "agora": "Meditação da Palavra Com Frei Gilson",
-      "proximo": "Terço da Misericórdia"
+      "agora": "Missa da Fazenda da Esperança",
+      "proximo": "Fazendo Esperança"
     },
     {
       "id": 98,
       "canal": "SONY CHANNEL",
-      "agora": "Shaking The Bar",
-      "proximo": "Shaking The Bar"
+      "agora": "Grey's Anatomy",
+      "proximo": "Eu, A Patroa e as Crianças"
     },
     {
       "id": 99,
       "canal": "SPACE",
-      "agora": "Operação Fronteira Brasil",
+      "agora": "C.S.I. Miami",
       "proximo": "C.S.I"
     },
     {
       "id": 104,
       "canal": "SPORTV",
       "agora": "VT - São Paulo x Remo",
-      "proximo": "VT - Fluminense x Cruzeiro"
+      "proximo": "São Paulo x Atlético-MG - Ao Vivo"
     },
     {
       "id": 105,
       "canal": "SPORTV 2",
-      "agora": "Hello L.A",
-      "proximo": "Faixa Olímpica: Dancing For Gold"
+      "agora": "Acesso Total - Ippon",
+      "proximo": "Grand Prix de Taekwondo - Finais - Astana - Ao Vivo"
     },
     {
       "id": 106,
       "canal": "SPORTV 3",
-      "agora": "Fórmula 1 - GP do Brasil - São Paulo",
-      "proximo": "Aquecimento sportv - Fórmula 1 - Ao Vivo"
+      "agora": "Fórmula 1 - GP do México",
+      "proximo": "Programação sportv 3"
     },
     {
       "id": 109,
       "canal": "STUDIO UNIVERSAL",
-      "agora": "Natal no Grand Ole Opry",
-      "proximo": "Natal em Aspen"
+      "agora": "Um Natal Inesquecível",
+      "proximo": "The Most Colorful Time of the Year"
     },
     {
       "id": 110,
       "canal": "TCM",
-      "agora": "Círculo Vicioso",
-      "proximo": "O Fundo do Mar"
+      "agora": "Histórias Extraordinárias",
+      "proximo": "Histórias Extraordinárias"
     },
     {
       "id": 111,
       "canal": "TLC",
-      "agora": "Tô Chegando - Na Casa Dos Famosos",
-      "proximo": "O Vestido Ideal"
+      "agora": "Bem-vindo à Família Plath",
+      "proximo": "Bem-vindo à Família Plath"
     },
     {
       "id": 112,
       "canal": "TNT",
-      "agora": "Todo Mundo Odeia O Chris",
-      "proximo": "Todo Mundo Odeia O Chris"
+      "agora": "Efeito Dominó",
+      "proximo": "De Olho Na Liga"
     },
     {
       "id": 114,
       "canal": "TNT SERIES",
-      "agora": "The Mentalist",
-      "proximo": "The Mentalist"
+      "agora": "Major Crimes",
+      "proximo": "Major Crimes"
     },
     {
       "id": 116,
       "canal": "TELECINE ACTION",
-      "agora": "Especial Russell Crowe: A Teia",
-      "proximo": "Especial Russell Crowe: Gladiador"
+      "agora": "Jurassic Park - O Mundo Perdido",
+      "proximo": "Scarface (1983)"
     },
     {
       "id": 117,
       "canal": "TELECINE CULT",
-      "agora": "Sessão Novos Clássicos: A Lenda",
-      "proximo": "Preview No Cult"
+      "agora": "Gigantes Em Luta",
+      "proximo": "Paterno"
     },
     {
       "id": 118,
       "canal": "TELECINE FUN",
-      "agora": "Planeta 51",
-      "proximo": "De Repente, Miss!"
+      "agora": "Os Caras Malvados",
+      "proximo": "Pokémon Ranger E O Lendário Templo Do Mar"
     },
     {
       "id": 119,
       "canal": "TELECINE PIPOCA",
-      "agora": "Farejando Vingança",
-      "proximo": "Missão Suicida"
+      "agora": "Os Mercenários",
+      "proximo": "Emma"
     },
     {
       "id": 120,
       "canal": "TELECINE PREMIUM",
-      "agora": "Drácula: Uma História de Amor Eterno",
-      "proximo": "Perseguição em Taipei"
+      "agora": "Resistência",
+      "proximo": "O Apanhador de Almas"
     },
     {
       "id": 121,
       "canal": "TELECINE TOUCH",
-      "agora": "P.S. Eu Te Amo",
-      "proximo": "Love Film Festival"
+      "agora": "Bridget Jones: Louca pelo Garoto",
+      "proximo": "Chernobyl: O Filme"
     },
     {
       "id": 123,
       "canal": "UNIVERSAL",
-      "agora": "Fbi",
-      "proximo": "Law & Order: Svu"
+      "agora": "Chicago Fire",
+      "proximo": "Chicago Fire"
     },
     {
       "id": 124,
       "canal": "WARNERCHANNEL",
-      "agora": "Atômica",
+      "agora": "Two and a Half Men",
       "proximo": "Two and a Half Men"
     }
   ]
